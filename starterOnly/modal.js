@@ -30,7 +30,6 @@ function closeModal() {
   modalBackground.style.opacity = 0;
   modalBackground.style.transition = "0.5s";
   modalBackground.style.zIndex = "-1";
-  //modalBackground.style.display = "none";
 }
 
 const displayError = (element) => {
